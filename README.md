@@ -3,7 +3,7 @@
 	OpenARM is an open-source remake version 7DOF humanoid arm hardware designed for physical AI research and deployment in many environments.
 	With high backdrivability and compliance with High cost-effective standard for robot joint motors in China's supply chain, it excels at safe human-robot.
 
-# Follower or Lead ARM  Base Model: 
+# Follower or Leader ARM  Base Model: 
  
 	OpenARM_V1_DM :  OpenARM 1.0 with Damiao Motors   
 		供应链说明：  达妙科技        供货状态稳定不稳定
