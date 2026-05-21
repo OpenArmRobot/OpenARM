@@ -1,0 +1,4 @@
+How to Order PCB
+
+Please refer to:
+https://docs.openarm.dev/hardware/bill-of-materials/procuring-components
